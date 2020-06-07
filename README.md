@@ -1,2 +1,2 @@
-# kornilovstudio
-# kornilovstudio
+# exel2
+Pure JavaScript project
