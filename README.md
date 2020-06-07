@@ -1,2 +1,4 @@
-# exel2
-Pure JavaScript project
+# KORNILOV STUDIO
+Wedding photo & video portfolio
+
+Project preview on [GitHub Pages](https://lanalong.github.io/kornilovstudio/) >>
